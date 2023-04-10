@@ -6,4 +6,4 @@ Not sure yet. I need some suggestions.
 - ATM machine app?
 - Kanban Board app?
 - Health/Calorie intake app?
-- What to wear/Choose my outfit app?
+- What to wear/Choose my outfit app? Dependent on weather.
